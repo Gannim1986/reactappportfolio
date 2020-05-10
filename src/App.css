@@ -107,7 +107,9 @@ h2 {
 }
 
 .button-container {
-  margin-top: 20px;
+  margin-top: 30px;
+  padding: 20px;
+  position: relative;
 }
 
 button[type=button] {

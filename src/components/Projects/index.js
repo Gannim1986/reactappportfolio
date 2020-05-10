@@ -3,7 +3,7 @@ import Col from "../Col";
 
 function Project(props) {
 
-    console.log("image", props.imgPath);
+    // console.log("image", props.imgPath);
   return (
     <Col size="md-4 sm-12">
       <div className="button-container">
